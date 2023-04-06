@@ -1,7 +1,7 @@
 import java.sql.Array;
 
 public class MyClass {
-    static public int X = 2;
+    static private int X = 2;
 
     public static void main(String[] args) {
         MyClass o1 = new MyClass();
